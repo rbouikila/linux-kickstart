@@ -1,0 +1,6 @@
+[UPDATES]
+name=The latest package updates - repository
+baseurl=file:///mnt/rockplace/updates
+enabled=1
+gpgcheck=0
+gpgkey=file:///mnt/RPM-GPG-KEY-redhat-release
