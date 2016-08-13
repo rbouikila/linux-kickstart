@@ -1,0 +1,6 @@
+[CD_Repository]
+name=CD Repository
+baseurl=file:///mnt
+enabled=1
+gpgcheck=0
+gpgkey=file:///mnt/RPM-GPG-KEY-redhat-release
